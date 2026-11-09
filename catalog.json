@@ -3,18 +3,19 @@
   "products": [
     {
       "id": "hub",
-      "name": "VINSI HUB",
+      "name": "VINSI APP HUB",
       "tagline": "Cài đặt và cập nhật phần mềm VINSI",
       "description": "Trình quản lý phần mềm VINSI: tải, cài đặt, cập nhật và gỡ cài đặt các phần mềm của công ty.",
       "hint": null,
-      "version": "1.0.0",
+      "version": "1.1.0",
       "released": "2026-11-09",
       "notes": [
-        "Bản đầu tiên: tải, cài, cập nhật, gỡ phần mềm VINSI"
+        "Giao diện mới: khung và nút bo góc, đổi tên VINSI APP HUB",
+        "Bộ logo mới"
       ],
-      "setupUrl": "https://github.com/QuangPHAM1994/VINSIAPP/releases/download/hub-v1.0.0/VINSI_Hub_Setup_1.0.0.exe",
-      "sha256": "2496f8eefaaae3dbbab5ff45d59990e890dcf80a98fe855e788640649eb53c8b",
-      "size": 476672,
+      "setupUrl": "https://github.com/QuangPHAM1994/VINSIAPP/releases/download/hub-v1.1.0/VINSI_Hub_Setup_1.1.0.exe",
+      "sha256": "0c4856c9ff92bde6a09be50b1181b4777bde413826a4684af6c6ac18d0a093aa",
+      "size": 1075712,
       "uninstallKey": "VINSI_HUB",
       "exe": "VINSI_Hub.exe",
       "iconUrl": "https://raw.githubusercontent.com/QuangPHAM1994/VINSIAPP/main/icons/hub.png",
@@ -59,5 +60,5 @@
       "iconUrl": "https://raw.githubusercontent.com/QuangPHAM1994/VINSIAPP/main/icons/vqs.png"
     }
   ],
-  "updated": "2026-11-09T10:46:32Z"
+  "updated": "2026-11-09T10:46:47Z"
 }
