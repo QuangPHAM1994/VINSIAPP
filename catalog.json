@@ -37,7 +37,26 @@
       "uninstallKey": "VINSI_VPA",
       "exe": null,
       "iconUrl": "https://raw.githubusercontent.com/QuangPHAM1994/VINSIAPP/main/icons/vpa.png"
+    },
+    {
+      "id": "vqs",
+      "name": "VQS – VINSI QUANTITY REBAR & STEEL",
+      "tagline": "Thống kê cốt thép & thép hình",
+      "description": "Thống kê cốt thép, thép hình, bản mã, bu lông; nhập nhanh cấu kiện, vẽ triển khai thép vào AutoCAD, xuất Excel. Chạy độc lập hoặc plugin (lệnh VSQ).",
+      "hint": null,
+      "version": "1.0.0",
+      "released": "2026-11-09",
+      "notes": [
+        "Bản V1.0: nhập nhanh cấu kiện, vẽ thép sàn / vách, bản quyền",
+        "Cài bằng VINSI HUB hoặc Setup riêng"
+      ],
+      "setupUrl": "https://github.com/QuangPHAM1994/VINSIAPP/releases/download/vqs-v1.0.0/VQS_Setup_1.0.0.exe",
+      "sha256": "a8c657d3c0e8769c19eedefc7b938d9e82b07c2b3e9e820f1ac0f273f1eb23a1",
+      "size": 74446848,
+      "uninstallKey": "VINSI_VQS",
+      "exe": "VQS.exe",
+      "iconUrl": "https://raw.githubusercontent.com/QuangPHAM1994/VINSIAPP/main/icons/vqs.png"
     }
   ],
-  "updated": "2026-11-09T10:20:18Z"
+  "updated": "2026-11-09T10:20:58Z"
 }
