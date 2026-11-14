@@ -30,11 +30,11 @@
       "version": "1.1.0",
       "released": "2026-11-14",
       "notes": [
-        "Bản VPA V1.1: cập nhật plugin VINSI PLOTTER",
-        "Cài bằng VINSI APP HUB, tự nạp vào AutoCAD"
+        "VPA 1.1",
+        "Cap nhat plugin VINSI PLOTTER V1.1"
       ],
       "setupUrl": "https://github.com/QuangPHAM1994/VINSIAPP/releases/download/vpa-v1.1.0/VPA_Setup_1.1.0.exe",
-      "sha256": "0c1f18fe755453fdf4cb27d650a890d3bccd91cb80c4c9af3db4c837e51dcc1b",
+      "sha256": "0f8af668b61eeb4ad3d4fb4e6a7637459ffd109edde91df3ea930ac196485508",
       "size": 928768,
       "uninstallKey": "VINSI_VPA",
       "exe": null,
@@ -60,5 +60,5 @@
       "iconUrl": "https://raw.githubusercontent.com/QuangPHAM1994/VINSIAPP/main/icons/vqs.png"
     }
   ],
-  "updated": "2026-11-14T16:42:26Z"
+  "updated": "2026-11-14T16:45:44Z"
 }
