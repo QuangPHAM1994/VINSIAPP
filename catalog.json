@@ -27,15 +27,15 @@
       "tagline": "Plugin in và xuất bản vẽ AutoCAD",
       "description": "Plugin AutoCAD VINSI PLOTTER: in / xuất bản vẽ theo vùng, đánh số, ghi ngày và tên bản vẽ. Gõ lệnh VPA trong AutoCAD để mở bảng điều khiển.",
       "hint": "Mở AutoCAD rồi gõ lệnh VPA.",
-      "version": "1.0.0",
-      "released": "2026-11-09",
+      "version": "1.1.0",
+      "released": "2026-11-14",
       "notes": [
-        "Bản VPA V1.0: cài bằng VINSI APP HUB, tự nạp vào AutoCAD",
-        "Logo mới"
+        "Bản VPA V1.1: cập nhật plugin VINSI PLOTTER",
+        "Cài bằng VINSI APP HUB, tự nạp vào AutoCAD"
       ],
-      "setupUrl": "https://github.com/QuangPHAM1994/VINSIAPP/releases/download/vpa-v1.0.0/VPA_Setup_1.0.0.exe",
-      "sha256": "c88ce6640d723497d1fb15ce565380766ace35c8a63a784518f23470d55f9eaf",
-      "size": 916480,
+      "setupUrl": "https://github.com/QuangPHAM1994/VINSIAPP/releases/download/vpa-v1.1.0/VPA_Setup_1.1.0.exe",
+      "sha256": "0c1f18fe755453fdf4cb27d650a890d3bccd91cb80c4c9af3db4c837e51dcc1b",
+      "size": 928768,
       "uninstallKey": "VINSI_VPA",
       "exe": null,
       "iconUrl": "https://raw.githubusercontent.com/QuangPHAM1994/VINSIAPP/main/icons/vpa.png"
@@ -60,5 +60,5 @@
       "iconUrl": "https://raw.githubusercontent.com/QuangPHAM1994/VINSIAPP/main/icons/vqs.png"
     }
   ],
-  "updated": "2026-11-09T10:46:47Z"
+  "updated": "2026-11-14T16:42:26Z"
 }
