@@ -66,18 +66,18 @@
       "description": "VINSI EARTHWORK: tính khối lượng đào đắp đất, chọn vùng từ bản vẽ AutoCAD qua cầu nối AutoLISP (vew_acad_bridge.lsp). Cần .NET 8 Desktop Runtime.",
       "hint": "Cần .NET 8 Desktop Runtime (x64).",
       "version": "1.0.0",
-      "released": "2026-11-14",
+      "released": "2026-11-15",
       "notes": [
         "Ban V1.0: tinh khoi luong dao dap dat",
         "Cai bang VINSI HUB hoac Setup rieng"
       ],
       "setupUrl": "https://github.com/QuangPHAM1994/VINSIAPP/releases/download/vew-v1.0.0/VEW_Setup_1.0.0.exe",
-      "sha256": "5facbcf5e43f3dd48f9c6412cf3f89abd3e656dc11112814a56d28b140d63840",
-      "size": 3419648,
+      "sha256": "2757e2e447329ce6ec0b58599a3e15911c1c60757e7289b00c92f730f62d3688",
+      "size": 3420672,
       "uninstallKey": "VINSI_VEW",
       "exe": "VINSI_EARTHWORK.exe",
       "iconUrl": "https://raw.githubusercontent.com/QuangPHAM1994/VINSIAPP/main/icons/vew.png"
     }
   ],
-  "updated": "2026-11-14T16:57:10Z"
+  "updated": "2026-11-14T17:06:07Z"
 }
