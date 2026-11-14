@@ -58,7 +58,26 @@
       "uninstallKey": "VINSI_VQS",
       "exe": "VQS.exe",
       "iconUrl": "https://raw.githubusercontent.com/QuangPHAM1994/VINSIAPP/main/icons/vqs.png"
+    },
+    {
+      "id": "vew",
+      "name": "VEW – VINSI EARTHWORK",
+      "tagline": "Tính khối lượng đào đắp đất",
+      "description": "VINSI EARTHWORK: tính khối lượng đào đắp đất, chọn vùng từ bản vẽ AutoCAD qua cầu nối AutoLISP (vew_acad_bridge.lsp). Cần .NET 8 Desktop Runtime.",
+      "hint": "Cần .NET 8 Desktop Runtime (x64).",
+      "version": "1.0.0",
+      "released": "2026-11-14",
+      "notes": [
+        "Ban V1.0: tinh khoi luong dao dap dat",
+        "Cai bang VINSI HUB hoac Setup rieng"
+      ],
+      "setupUrl": "https://github.com/QuangPHAM1994/VINSIAPP/releases/download/vew-v1.0.0/VEW_Setup_1.0.0.exe",
+      "sha256": "5facbcf5e43f3dd48f9c6412cf3f89abd3e656dc11112814a56d28b140d63840",
+      "size": 3419648,
+      "uninstallKey": "VINSI_VEW",
+      "exe": "VINSI_EARTHWORK.exe",
+      "iconUrl": "https://raw.githubusercontent.com/QuangPHAM1994/VINSIAPP/main/icons/vew.png"
     }
   ],
-  "updated": "2026-11-14T16:45:44Z"
+  "updated": "2026-11-14T16:57:10Z"
 }
