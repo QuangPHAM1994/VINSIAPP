@@ -83,19 +83,19 @@
       "tagline": "Quản lý và tra cứu tài liệu",
       "description": "VINSI DOCHUB: phần mềm quản lý và tra cứu tài liệu của VINSI.",
       "hint": null,
-      "version": "1.0.0",
-      "released": "2026-11-19",
+      "version": "1.1.0",
+      "released": "2026-11-20",
       "notes": [
-        "Ban V1.0: quan ly va tra cuu tai lieu",
-        "Cai bang VINSI HUB hoac Setup rieng"
+        "VDH 1.1",
+        "Cap nhat phan mem VINSI DOCHUB V1.1"
       ],
-      "setupUrl": "https://github.com/QuangPHAM1994/VINSIAPP/releases/download/vdh-v1.0.0/VDH_Setup_1.0.0.exe",
-      "sha256": "359a764539106b3e60e76c41358a3ea2370fc25341204c87d171c892f246bc89",
-      "size": 96236544,
+      "setupUrl": "https://github.com/QuangPHAM1994/VINSIAPP/releases/download/vdh-v1.1.0/VDH_Setup_1.1.0.exe",
+      "sha256": "fe8607913aafb8f155c2767474a831079446b5c93278ef91ab18240771ba4b84",
+      "size": 96261632,
       "uninstallKey": "VINSI_VDH",
       "exe": "VINSI DOCHUB.exe",
       "iconUrl": "https://raw.githubusercontent.com/QuangPHAM1994/VINSIAPP/main/icons/vdh.png"
     }
   ],
-  "updated": "2026-11-19T15:52:38Z"
+  "updated": "2026-11-20T15:45:29Z"
 }
