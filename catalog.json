@@ -95,7 +95,25 @@
       "uninstallKey": "VINSI_VDH",
       "exe": "VINSI DOCHUB.exe",
       "iconUrl": "https://raw.githubusercontent.com/QuangPHAM1994/VINSIAPP/main/icons/vdh.png"
+    },
+    {
+      "id": "edgeround",
+      "name": "VINSI EdgeRound For SU",
+      "tagline": "Extension bo tròn cạnh cho SketchUp",
+      "description": "VINSI EdgeRound For SketchUp: extension bo tròn cạnh (bo góc) cho SketchUp. Cài bằng trình cài đặt riêng, chọn thư mục Plugins của SketchUp.",
+      "hint": "Cần đóng SketchUp trước khi cài.",
+      "version": "1.0.0",
+      "released": "2026-11-20",
+      "notes": [
+        "Ban V1.0: extension bo tron canh cho SketchUp"
+      ],
+      "setupUrl": "https://github.com/QuangPHAM1994/VINSIAPP/releases/download/edgeround-v1.0.0/EdgeRound_Setup_1.0.0.exe",
+      "sha256": "284b1fe4e7fb3ee7c1ecad12e3c421c35d05766ddaa4d2674ccda01cdb9ffe18",
+      "size": 244224,
+      "uninstallKey": "VINSI_EDGEROUND",
+      "exe": null,
+      "iconUrl": "https://raw.githubusercontent.com/QuangPHAM1994/VINSIAPP/main/icons/edgeround.png"
     }
   ],
-  "updated": "2026-11-20T15:45:29Z"
+  "updated": "2026-11-20T15:49:17Z"
 }
